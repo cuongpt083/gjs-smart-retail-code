@@ -8,7 +8,14 @@
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
 
+## References
+
+- [Excel templates] (data/kiotviet_template/)
+- [SDV template analyze notes] (sdv_template_analyze_notes.md)
+
 ## Introduction
+
+Việc triển khai xây dựng các script SDV data pipeline được thiết kế dựa vào kết quả phân tích template Excel của KiotViet, tham khảo file `sdv_template_analyze_notes.md`.
 
 Quá trình giả lập dữ liệu sử dụng SDV (Synthetic Data Vault) bao gồm các bước sau:
 
