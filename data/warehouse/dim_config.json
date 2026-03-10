@@ -1,0 +1,105 @@
+{
+    "locations": {
+        "city": "Hà Nội",
+        "districts": [
+            "Hoàn Kiếm",
+            "Ba Đình",
+            "Đống Đa",
+            "Hai Bà Trưng",
+            "Cầu Giấy",
+            "Thanh Xuân",
+            "Long Biên",
+            "Nam Từ Liêm",
+            "Bắc Từ Liêm",
+            "Tây Hồ"
+        ]
+    },
+    "grocery_categories": [
+        {
+            "name": "Gạo, Bột, Đồ khô",
+            "sub_categories": [
+                "Gạo Tám",
+                "Gạo Nếp",
+                "Mì Gói",
+                "Phở Khô",
+                "Bột Mì"
+            ]
+        },
+        {
+            "name": "Gia vị, Thực phẩm đóng hộp",
+            "sub_categories": [
+                "Nước Mắm",
+                "Hạt Nêm",
+                "Dầu ĂN",
+                "Tương Ớt",
+                "Đồ Hộp"
+            ]
+        },
+        {
+            "name": "Sữa và các sản phẩm từ sữa",
+            "sub_categories": [
+                "Sữa Tươi",
+                "Sữa Bột",
+                "Sữa Chua",
+                "Phô Mai"
+            ]
+        },
+        {
+            "name": "Bánh kẹo, Đồ ăn vặt",
+            "sub_categories": [
+                "Bánh Quy",
+                "Kẹo Cứng",
+                "Snack",
+                "Chocolate"
+            ]
+        },
+        {
+            "name": "Đồ uống",
+            "sub_categories": [
+                "Nước Khoáng",
+                "Nước Ngọt",
+                "Bia",
+                "Trà",
+                "Cà Phê"
+            ]
+        },
+        {
+            "name": "Hóa mỹ phẩm",
+            "sub_categories": [
+                "Dầu Gội",
+                "Sữa Tắm",
+                "Bột Giặt",
+                "Nước Lau Sàn"
+            ]
+        },
+        {
+            "name": "Đồ gia dụng",
+            "sub_categories": [
+                "Khăn Giấy",
+                "Túi Rác",
+                "Chén Bát Nhân"
+            ]
+        }
+    ],
+    "brands": [
+        "Chinsu",
+        "Vinamilk",
+        "Masan",
+        "Hảo Hảo",
+        "TH True Milk",
+        "Oishi",
+        "Coca-Cola",
+        "Pepsi",
+        "Omo",
+        "Lifebuoy"
+    ],
+    "uoms": [
+        "Cái",
+        "Hộp",
+        "Gói",
+        "Thùng",
+        "Kg",
+        "Chai",
+        "Lon"
+    ]
+}

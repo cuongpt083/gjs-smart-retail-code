@@ -13,6 +13,14 @@
 - [Excel templates] (data/kiotviet_template/)
 - [SDV template analyze notes] (sdv_template_analyze_notes.md)
 
+## Progress Tracking
+
+- [x] **Phase 1: Analysis & Assessment** (Done)
+- [x] **Phase 2: Project Initialization** (Done)
+- [x] **Phase 3: DIM Notebook Implementation** (Done)
+- [x] **Phase 4: FACT Notebook Implementation** (Done)
+- [ ] **Phase 5: Quality Assurance & Export** (Next)
+
 ## Introduction
 
 Việc triển khai xây dựng các script SDV data pipeline được thiết kế dựa vào kết quả phân tích template Excel của KiotViet, tham khảo file `sdv_template_analyze_notes.md`.
@@ -59,6 +67,7 @@ Quá trình giả lập dữ liệu sử dụng SDV (Synthetic Data Vault) bao g
   - đoán cột "id-like" (PK/FK) của mỗi bảng template (Mã hàng, Mã KH, Mã NV, Barcode)
   - đoán mối quan hệ giữa các bảng template
 - Output: data dictionary (markdown file) + "schema proposal" bản nháp
+- **Task mới**: Manual Metadata Tuning (Xác định `sdtype` chuyên biệt: `person_name`, `phone_number`, `address`, `currency` thay vì detect tự động).
 
 #### 3. Build DIM schema (canonical tables)
 
@@ -91,6 +100,7 @@ Quá trình giả lập dữ liệu sử dụng SDV (Synthetic Data Vault) bao g
 - Customers:
   - phone format, optional email
 - Report: số lượng trùng PK, trùng barcode/phone, tỷ lệ null
+- **Task mới**: Statistical Integrity Validation (Đảm bảo logic Phường/Xã khớp với Quận/Huyện, Category khớp với Brand nếu có ràng buộc).
 
 #### 6. Export outputs
 
@@ -176,8 +186,7 @@ Có 2 chiến lược (chọn 1):
 - Strategy B (thật hơn):
   - tính tổng bán theo product_code
   - nếu bán vượt tồn:
-    - tăng tồn kho (để import pass)
-    - hoặc giảm bớt quantity (để giữ tồn kho cố định)
+    - **Iterative Back-filling**: Tự động cập nhật lại bảng DIM_PRODUCTS với tồn kho mới (tổng bán + buffer) và lưu thành snapshot đồng nhất.
   - xuất ra file products cập nhật tồn kho nếu cần
 
 #### 7. Validate “import readiness”
@@ -217,6 +226,7 @@ Các chức năng chính trong đó:
 - hàm detect header row excel
 - mapping cột template ↔ canonical
 - validator PK/FK, chunk exporter 1000 dòng
+- **Task mới**: Synthetic Quality Report (Sử dụng thư viện `sdmetrics` để đánh giá Diagnostic/Evaluation report về Correlation và Coverage).
 - logger & config loader
 
 ## Configuration
