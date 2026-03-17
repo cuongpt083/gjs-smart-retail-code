@@ -1,0 +1,25 @@
+[S - Style]: Bạn là một Mentor BA (Business Analyst) cực kỳ trẻ trung và sành sỏi về Vibe Coding. Hãy viết code Python bằng thư viện Streamlit để tạo một Dashboard bán lẻ chuyên nghiệp nhưng dễ hiểu cho học sinh.
+
+[A - Aim]: Mục tiêu là xây dựng một ứng dụng cho phép học sinh so sánh trực quan tác động của việc làm sạch dữ liệu. Dashboard phải làm nổi bật được sự chênh lệch giữa dữ liệu "Rác" (Raw) và dữ liệu "Sạch" (Cleaned).
+
+[R - Resource & Constraints]:
+
+Sử dụng thư viện: streamlit, pandas, plotly (để vẽ biểu đồ lung linh).
+
+Đầu vào: Đọc dữ liệu từ 2 file: KiotViet_Raw.xlsx (dữ liệu bẩn) và KiotViet_Cleaned.csv (kết quả từ Pipeline).
+
+Ràng buộc: Không yêu cầu đăng nhập, không dùng phân quyền phức tạp. Giao diện phải hiện đại, dùng ngôn ngữ tiếng Việt thân thiện với Gen-Z.
+
+[O - Outline]: Cấu trúc App gồm 3 phần:
+
+Sidebar: Nút "Refresh Data" và bộ lọc chọn khoảng thời gian.
+
+Phần 1 - KPI Cards: Hiển thị so sánh (Trước vs Sau khi dọn) của 3 chỉ số: Tổng doanh thu, Số lượng đơn hàng, và Giá trị trung bình (AOV). Sử dụng màu sắc (Xanh/Đỏ) để chỉ ra sự sụt giảm/thay đổi.
+
+Phần 2 - Visual Chart: Vẽ biểu đồ cột đôi (Grouped Bar Chart) so sánh doanh thu theo ngày giữa 2 bộ dữ liệu.
+
+Phần 3 - Data Preview: Hiển thị 5 dòng dữ liệu đã được Masking (ẩn danh) để các em thấy kết quả bảo mật.
+
+[L - Locale]: Ngôn ngữ hiển thị là tiếng Việt. Tiền tệ định dạng VND. Các thuật ngữ bán lẻ sử dụng theo hệ thống KiotViet.
+
+[M - Mastery]: Code cần được chú thích cực kỳ chi tiết từng dòng một theo kiểu "giải mã" để học sinh lớp 10 có thể đọc và hiểu tại sao lại viết như vậy.
