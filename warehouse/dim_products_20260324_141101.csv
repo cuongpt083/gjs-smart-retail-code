@@ -1,0 +1,501 @@
+product_code,product_name,category,cost_price,sale_price,stock_on_hand
+SP00001,Kẹo lạc vừng - Mẫu 001,Kẹo bánh,22000,39451,175
+SP00002,Nước rửa chén Sunlight chanh - Mẫu 002,Hàng hóa>>Hóa phẩm,81000,144923,396
+SP00003,Trà xanh Không Độ - Mẫu 003,Đồ uống>>Trà đóng chai,54000,90309,66
+SP00004,Phở bò Cung Đình - Mẫu 004,Thực phẩm>>Mì ăn liền,57000,78369,308
+SP00005,Phở bò Cung Đình - Mẫu 005,Thực phẩm>>Mì ăn liền,297000,403643,382
+SP00006,Trà xanh Không Độ - Mẫu 006,Đồ uống>>Trà đóng chai,224000,308302,351
+SP00007,Gạo Tám Hải Hậu 10kg - Mẫu 007,Thực phẩm>>Gạo,424000,803666,438
+SP00008,Bò húc Redbull - Mẫu 008,Đồ uống>>Nước tăng lực,367000,564479,192
+SP00009,Gói quà - Mẫu 009,Dịch vụ>>Gói quà,120000,235892,222
+SP00010,Rửa xe - Mẫu 010,Dịch vụ>>Rửa xe,57000,85724,233
+SP00011,Sữa tươi Vinamilk có đường 180ml - Mẫu 011,Khác>>Sữa,319000,450305,72
+SP00012,Dầu gội Clear bạc hà - Mẫu 012,Mỹ phẩm>>Chăm sóc tóc,284000,369160,243
+SP00013,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 013,Thực phẩm>>Gia vị,292000,418886,371
+SP00014,Nước khoáng Lavie 500ml - Mẫu 014,Đồ uống>>Nước lọc,305000,412918,85
+SP00015,Sữa chua Mộc Châu - Mẫu 015,Khác>>Sữa chua,348000,481046,198
+SP00016,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 016,Thực phẩm>>Gia vị,447000,619646,101
+SP00017,Trứng gà Ba Huân - Mẫu 017,Thực phẩm>>Tươi sống,152000,237534,477
+SP00018,Nước khoáng Lavie 500ml - Mẫu 018,Đồ uống>>Nước lọc,93000,139141,157
+SP00019,Gạo Tám Hải Hậu 10kg - Mẫu 019,Thực phẩm>>Gạo,369000,719300,381
+SP00020,Bột canh Hải Châu - Mẫu 020,Thực phẩm>>Gia vị,321000,548262,323
+SP00021,Nước giặt OMO Matic - Mẫu 021,Hàng hóa>>Hóa phẩm,93000,145992,188
+SP00022,Bánh Choco-Pie hộp 12 cái - Mẫu 022,Kẹo bánh,122000,213218,481
+SP00023,Bia 333 lon 330ml - Mẫu 023,Đồ uống>>Bia,127000,235895,462
+SP00024,Coca Cola lon 330ml - Mẫu 024,Đồ uống>>Nước ngọt,215000,304051,158
+SP00025,Xúc xích CP tiệt trùng - Mẫu 025,Thực phẩm>>Đồ hộp,458000,812643,158
+SP00026,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 026,Hàng hóa>>Vệ sinh,212000,404442,379
+SP00027,Dầu gội Clear bạc hà - Mẫu 027,Mỹ phẩm>>Chăm sóc tóc,83000,117188,176
+SP00028,Bánh Choco-Pie hộp 12 cái - Mẫu 028,Kẹo bánh,285000,401905,349
+SP00029,Kẹo dừa Bến Tre - Mẫu 029,Kẹo bánh,469000,781741,235
+SP00030,Nước rửa chén Sunlight chanh - Mẫu 030,Hàng hóa>>Hóa phẩm,80000,128609,96
+SP00031,Bia 333 lon 330ml - Mẫu 031,Đồ uống>>Bia,450000,579473,371
+SP00032,Bò húc Redbull - Mẫu 032,Đồ uống>>Nước tăng lực,415000,723919,355
+SP00033,Bột canh Hải Châu - Mẫu 033,Thực phẩm>>Gia vị,207000,311596,289
+SP00034,Kẹo cao su tổng hợp - Mẫu 034,Kẹo bánh,138000,272807,490
+SP00035,Mì Hảo Hảo tôm chua cay - Mẫu 035,Thực phẩm>>Mì ăn liền,358000,636014,399
+SP00036,Trà xanh Không Độ - Mẫu 036,Đồ uống>>Trà đóng chai,394000,556903,378
+SP00037,Bia Hà Nội lon 330ml - Mẫu 037,Đồ uống>>Bia,67000,96131,130
+SP00038,Dầu gội Clear bạc hà - Mẫu 038,Mỹ phẩm>>Chăm sóc tóc,11000,21593,498
+SP00039,Tương ớt Chinsu 250g - Mẫu 039,Thực phẩm>>Gia vị,266000,481345,309
+SP00040,Rửa xe - Mẫu 040,Dịch vụ>>Rửa xe,455000,773609,480
+SP00041,Dầu ăn Neptune 1L - Mẫu 041,Thực phẩm>>Gia vị,321000,436280,241
+SP00042,Bò húc Redbull - Mẫu 042,Đồ uống>>Nước tăng lực,286000,561360,321
+SP00043,Mì Hảo Hảo tôm chua cay - Mẫu 043,Thực phẩm>>Mì ăn liền,316000,461146,59
+SP00044,Kẹo lạc vừng - Mẫu 044,Kẹo bánh,485000,722836,475
+SP00045,Kẹo Doublemint - Mẫu 045,Kẹo bánh,132000,164516,499
+SP00046,Xúc xích CP tiệt trùng - Mẫu 046,Thực phẩm>>Đồ hộp,494000,623924,424
+SP00047,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 047,Hàng hóa>>Vệ sinh,427000,536042,439
+SP00048,Trà xanh Không Độ - Mẫu 048,Đồ uống>>Trà đóng chai,402000,522844,387
+SP00049,Băng vệ sinh Diana - Mẫu 049,Hàng hóa>>Vệ sinh cá nhân,494000,810082,185
+SP00050,Kẹo cao su tổng hợp - Mẫu 050,Kẹo bánh,456000,768485,158
+SP00051,Trà xanh Không Độ - Mẫu 051,Đồ uống>>Trà đóng chai,396000,706442,152
+SP00052,Kẹo Doublemint - Mẫu 052,Kẹo bánh,214000,427169,382
+SP00053,Nước khoáng Lavie 500ml - Mẫu 053,Đồ uống>>Nước lọc,234000,449207,281
+SP00054,Kẹo lạc vừng - Mẫu 054,Kẹo bánh,136000,187647,223
+SP00055,Phở bò Cung Đình - Mẫu 055,Thực phẩm>>Mì ăn liền,311000,511015,351
+SP00056,Nước rửa chén Sunlight chanh - Mẫu 056,Hàng hóa>>Hóa phẩm,13000,16338,373
+SP00057,Bia 333 lon 330ml - Mẫu 057,Đồ uống>>Bia,127000,159247,66
+SP00058,Bia Hà Nội lon 330ml - Mẫu 058,Đồ uống>>Bia,46000,74120,192
+SP00059,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 059,Hàng hóa>>Vệ sinh,119000,194135,420
+SP00060,Xúc xích CP tiệt trùng - Mẫu 060,Thực phẩm>>Đồ hộp,305000,481331,451
+SP00061,Băng vệ sinh Diana - Mẫu 061,Hàng hóa>>Vệ sinh cá nhân,423000,645349,98
+SP00062,Rửa xe - Mẫu 062,Dịch vụ>>Rửa xe,347000,536059,266
+SP00063,Thẻ cào Viettel 50k - Mẫu 063,Dịch vụ>>Thẻ cào,249000,470876,77
+SP00064,Rửa xe - Mẫu 064,Dịch vụ>>Rửa xe,41000,62405,223
+SP00065,Rửa xe - Mẫu 065,Dịch vụ>>Rửa xe,137000,185398,324
+SP00066,Sữa tắm Falmolive xanh lá - Mẫu 066,Mỹ phẩm,81000,124537,192
+SP00067,Dầu gội Clear bạc hà - Mẫu 067,Mỹ phẩm>>Chăm sóc tóc,137000,260243,88
+SP00068,Sữa tắm Falmolive xanh lá - Mẫu 068,Mỹ phẩm,423000,799080,331
+SP00069,Rửa xe - Mẫu 069,Dịch vụ>>Rửa xe,35000,60260,326
+SP00070,Mì Hảo Hảo tôm chua cay - Mẫu 070,Thực phẩm>>Mì ăn liền,57000,110642,484
+SP00071,Nước giặt OMO Matic - Mẫu 071,Hàng hóa>>Hóa phẩm,95000,144887,296
+SP00072,Thịt bò khô 30g - Mẫu 072,Thực phẩm,452000,687416,80
+SP00073,Bò húc Redbull - Mẫu 073,Đồ uống>>Nước tăng lực,204000,245151,249
+SP00074,Tương ớt Chinsu 250g - Mẫu 074,Thực phẩm>>Gia vị,484000,884392,282
+SP00075,Thẻ cào Mobifone 50k - Mẫu 075,Dịch vụ>>Thẻ cào,226000,397143,424
+SP00076,Bánh Choco-Pie hộp 12 cái - Mẫu 076,Kẹo bánh,348000,617604,129
+SP00077,Set mỹ phẩm tổng hợp - Mẫu 077,Mỹ phẩm,161000,221239,79
+SP00078,Trà xanh Không Độ - Mẫu 078,Đồ uống>>Trà đóng chai,41000,73733,79
+SP00079,Bia 333 lon 330ml - Mẫu 079,Đồ uống>>Bia,309000,488662,486
+SP00080,Kẹo cao su tổng hợp - Mẫu 080,Kẹo bánh,90000,112095,310
+SP00081,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 081,Thực phẩm>>Gia vị,445000,600153,354
+SP00082,Bột canh Hải Châu - Mẫu 082,Thực phẩm>>Gia vị,355000,670756,256
+SP00083,Kẹo lạc vừng - Mẫu 083,Kẹo bánh,492000,940817,176
+SP00084,Sữa chua Mộc Châu - Mẫu 084,Khác>>Sữa chua,327000,413846,386
+SP00085,Xúc xích CP tiệt trùng - Mẫu 085,Thực phẩm>>Đồ hộp,277000,402507,183
+SP00086,Thịt bò khô 30g - Mẫu 086,Thực phẩm,352000,624079,172
+SP00087,Tương ớt Chinsu 250g - Mẫu 087,Thực phẩm>>Gia vị,212000,276596,380
+SP00088,Kẹo Doublemint - Mẫu 088,Kẹo bánh,244000,354517,434
+SP00089,Bột canh Hải Châu - Mẫu 089,Thực phẩm>>Gia vị,14000,21932,338
+SP00090,Rửa xe - Mẫu 090,Dịch vụ>>Rửa xe,47000,76615,309
+SP00091,Tương ớt Chinsu 250g - Mẫu 091,Thực phẩm>>Gia vị,77000,149888,85
+SP00092,Nước giặt OMO Matic - Mẫu 092,Hàng hóa>>Hóa phẩm,199000,284169,274
+SP00093,Trà xanh Không Độ - Mẫu 093,Đồ uống>>Trà đóng chai,370000,533545,463
+SP00094,Kẹo cao su tổng hợp - Mẫu 094,Kẹo bánh,14000,24280,333
+SP00095,Kẹo Doublemint - Mẫu 095,Kẹo bánh,487000,842856,499
+SP00096,Kem đánh răng P/S trà xanh - Mẫu 096,Mỹ phẩm>>Chăm sóc răng miệng,145000,187389,104
+SP00097,Bánh Choco-Pie hộp 12 cái - Mẫu 097,Kẹo bánh,89000,126191,359
+SP00098,Thịt bò khô 30g - Mẫu 098,Thực phẩm,377000,555812,401
+SP00099,Tương ớt Chinsu 250g - Mẫu 099,Thực phẩm>>Gia vị,268000,426341,483
+SP00100,Bia 333 lon 330ml - Mẫu 100,Đồ uống>>Bia,57000,97323,474
+SP00101,Gạo Tám Hải Hậu 10kg - Mẫu 101,Thực phẩm>>Gạo,32000,38490,444
+SP00102,Kem đánh răng P/S trà xanh - Mẫu 102,Mỹ phẩm>>Chăm sóc răng miệng,336000,666569,132
+SP00103,Sữa tắm Falmolive xanh lá - Mẫu 103,Mỹ phẩm,292000,515243,337
+SP00104,Mì Hảo Hảo tôm chua cay - Mẫu 104,Thực phẩm>>Mì ăn liền,67000,84433,403
+SP00105,Gói quà - Mẫu 105,Dịch vụ>>Gói quà,289000,355129,239
+SP00106,Bánh Choco-Pie hộp 12 cái - Mẫu 106,Kẹo bánh,85000,131225,71
+SP00107,Kẹo Doublemint - Mẫu 107,Kẹo bánh,196000,376160,457
+SP00108,Sữa chua Mộc Châu - Mẫu 108,Khác>>Sữa chua,470000,698536,399
+SP00109,Nước giặt OMO Matic - Mẫu 109,Hàng hóa>>Hóa phẩm,351000,450064,449
+SP00110,Bánh Choco-Pie hộp 12 cái - Mẫu 110,Kẹo bánh,462000,877693,367
+SP00111,Gói quà - Mẫu 111,Dịch vụ>>Gói quà,483000,938906,492
+SP00112,Bò húc Redbull - Mẫu 112,Đồ uống>>Nước tăng lực,419000,774570,261
+SP00113,Phở bò Cung Đình - Mẫu 113,Thực phẩm>>Mì ăn liền,101000,180714,220
+SP00114,Thẻ cào Viettel 50k - Mẫu 114,Dịch vụ>>Thẻ cào,420000,729088,426
+SP00115,Nước giặt OMO Matic - Mẫu 115,Hàng hóa>>Hóa phẩm,146000,193794,409
+SP00116,Rửa xe - Mẫu 116,Dịch vụ>>Rửa xe,205000,389035,489
+SP00117,Băng vệ sinh Diana - Mẫu 117,Hàng hóa>>Vệ sinh cá nhân,123000,167237,285
+SP00118,Sữa tươi Vinamilk có đường 180ml - Mẫu 118,Khác>>Sữa,166000,308167,496
+SP00119,Nước rửa chén Sunlight chanh - Mẫu 119,Hàng hóa>>Hóa phẩm,124000,151147,148
+SP00120,Phở bò phố cổ - Mẫu 120,Thực phẩm,178000,253273,85
+SP00121,Gạo Tám Hải Hậu 10kg - Mẫu 121,Thực phẩm>>Gạo,189000,323792,254
+SP00122,Trà xanh Không Độ - Mẫu 122,Đồ uống>>Trà đóng chai,179000,349298,109
+SP00123,Tương ớt Chinsu 250g - Mẫu 123,Thực phẩm>>Gia vị,101000,168111,185
+SP00124,Sữa chua Mộc Châu - Mẫu 124,Khác>>Sữa chua,65000,109021,226
+SP00125,Coca Cola lon 330ml - Mẫu 125,Đồ uống>>Nước ngọt,233000,392597,311
+SP00126,Kẹo lạc vừng - Mẫu 126,Kẹo bánh,207000,397357,147
+SP00127,Tương ớt Chinsu 250g - Mẫu 127,Thực phẩm>>Gia vị,32000,56544,50
+SP00128,Kẹo cao su tổng hợp - Mẫu 128,Kẹo bánh,483000,891235,401
+SP00129,Set mỹ phẩm tổng hợp - Mẫu 129,Mỹ phẩm,196000,302827,390
+SP00130,Bia Hà Nội lon 330ml - Mẫu 130,Đồ uống>>Bia,329000,477422,484
+SP00131,Kẹo lạc vừng - Mẫu 131,Kẹo bánh,378000,725774,309
+SP00132,Kẹo Doublemint - Mẫu 132,Kẹo bánh,351000,535876,256
+SP00133,Thẻ cào Mobifone 50k - Mẫu 133,Dịch vụ>>Thẻ cào,293000,381436,265
+SP00134,Trứng gà Ba Huân - Mẫu 134,Thực phẩm>>Tươi sống,356000,640268,139
+SP00135,Xúc xích CP tiệt trùng - Mẫu 135,Thực phẩm>>Đồ hộp,164000,250077,476
+SP00136,Mì Hảo Hảo tôm chua cay - Mẫu 136,Thực phẩm>>Mì ăn liền,165000,235872,270
+SP00137,Coca Cola lon 330ml - Mẫu 137,Đồ uống>>Nước ngọt,248000,385250,395
+SP00138,Thịt bò khô 30g - Mẫu 138,Thực phẩm,271000,427786,457
+SP00139,Bò húc Redbull - Mẫu 139,Đồ uống>>Nước tăng lực,347000,439939,313
+SP00140,Bia Hà Nội lon 330ml - Mẫu 140,Đồ uống>>Bia,57000,105720,434
+SP00141,Nước giặt OMO Matic - Mẫu 141,Hàng hóa>>Hóa phẩm,354000,512710,462
+SP00142,Set mỹ phẩm tổng hợp - Mẫu 142,Mỹ phẩm,85000,103660,175
+SP00143,Băng vệ sinh Diana - Mẫu 143,Hàng hóa>>Vệ sinh cá nhân,322000,605292,87
+SP00144,Dầu gội Clear bạc hà - Mẫu 144,Mỹ phẩm>>Chăm sóc tóc,222000,423777,344
+SP00145,Set mỹ phẩm tổng hợp - Mẫu 145,Mỹ phẩm,377000,662420,303
+SP00146,Phở bò phố cổ - Mẫu 146,Thực phẩm,134000,176619,402
+SP00147,Mì Hảo Hảo tôm chua cay - Mẫu 147,Thực phẩm>>Mì ăn liền,467000,840960,444
+SP00148,Rửa xe - Mẫu 148,Dịch vụ>>Rửa xe,408000,628367,140
+SP00149,Kẹo cao su tổng hợp - Mẫu 149,Kẹo bánh,247000,306323,177
+SP00150,Kẹo lạc vừng - Mẫu 150,Kẹo bánh,243000,317521,287
+SP00151,Kẹo cao su tổng hợp - Mẫu 151,Kẹo bánh,296000,496203,436
+SP00152,Sữa tắm Falmolive xanh lá - Mẫu 152,Mỹ phẩm,323000,598197,308
+SP00153,Kẹo dừa Bến Tre - Mẫu 153,Kẹo bánh,435000,837585,278
+SP00154,Bò húc Redbull - Mẫu 154,Đồ uống>>Nước tăng lực,390000,736786,280
+SP00155,Tương ớt Chinsu 250g - Mẫu 155,Thực phẩm>>Gia vị,394000,550729,376
+SP00156,Gạo Tám Hải Hậu 10kg - Mẫu 156,Thực phẩm>>Gạo,402000,732500,298
+SP00157,Nước giặt OMO Matic - Mẫu 157,Hàng hóa>>Hóa phẩm,150000,232784,415
+SP00158,Thẻ cào Mobifone 50k - Mẫu 158,Dịch vụ>>Thẻ cào,130000,184258,213
+SP00159,Trà xanh Không Độ - Mẫu 159,Đồ uống>>Trà đóng chai,51000,66845,168
+SP00160,Trứng gà Ba Huân - Mẫu 160,Thực phẩm>>Tươi sống,365000,482619,159
+SP00161,Bột canh Hải Châu - Mẫu 161,Thực phẩm>>Gia vị,222000,338789,327
+SP00162,Dầu gội Clear bạc hà - Mẫu 162,Mỹ phẩm>>Chăm sóc tóc,222000,277458,476
+SP00163,Thẻ cào Viettel 50k - Mẫu 163,Dịch vụ>>Thẻ cào,209000,402088,349
+SP00164,Phở bò Cung Đình - Mẫu 164,Thực phẩm>>Mì ăn liền,448000,853227,344
+SP00165,Trứng gà Ba Huân - Mẫu 165,Thực phẩm>>Tươi sống,254000,305998,230
+SP00166,Kẹo Doublemint - Mẫu 166,Kẹo bánh,395000,597235,477
+SP00167,Thẻ cào Viettel 50k - Mẫu 167,Dịch vụ>>Thẻ cào,285000,512433,329
+SP00168,Nước rửa chén Sunlight chanh - Mẫu 168,Hàng hóa>>Hóa phẩm,259000,356264,273
+SP00169,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 169,Hàng hóa>>Vệ sinh,24000,36266,392
+SP00170,Phở bò phố cổ - Mẫu 170,Thực phẩm,380000,506173,289
+SP00171,Kem đánh răng P/S trà xanh - Mẫu 171,Mỹ phẩm>>Chăm sóc răng miệng,328000,533754,251
+SP00172,Xúc xích CP tiệt trùng - Mẫu 172,Thực phẩm>>Đồ hộp,349000,426366,379
+SP00173,Kẹo dừa Bến Tre - Mẫu 173,Kẹo bánh,79000,149585,143
+SP00174,Bia 333 lon 330ml - Mẫu 174,Đồ uống>>Bia,143000,214969,158
+SP00175,Dầu gội Clear bạc hà - Mẫu 175,Mỹ phẩm>>Chăm sóc tóc,177000,260190,500
+SP00176,Trứng gà Ba Huân - Mẫu 176,Thực phẩm>>Tươi sống,152000,273844,475
+SP00177,Thẻ cào Viettel 50k - Mẫu 177,Dịch vụ>>Thẻ cào,139000,259642,290
+SP00178,Phở bò Cung Đình - Mẫu 178,Thực phẩm>>Mì ăn liền,393000,641193,229
+SP00179,Nước rửa chén Sunlight chanh - Mẫu 179,Hàng hóa>>Hóa phẩm,342000,429173,383
+SP00180,Sữa chua Mộc Châu - Mẫu 180,Khác>>Sữa chua,396000,485030,176
+SP00181,Set mỹ phẩm tổng hợp - Mẫu 181,Mỹ phẩm,439000,533957,128
+SP00182,Nước giặt OMO Matic - Mẫu 182,Hàng hóa>>Hóa phẩm,74000,116834,108
+SP00183,Xúc xích CP tiệt trùng - Mẫu 183,Thực phẩm>>Đồ hộp,495000,680313,408
+SP00184,Tương ớt Chinsu 250g - Mẫu 184,Thực phẩm>>Gia vị,402000,601036,360
+SP00185,Kẹo lạc vừng - Mẫu 185,Kẹo bánh,408000,757019,209
+SP00186,Rửa xe - Mẫu 186,Dịch vụ>>Rửa xe,306000,373486,209
+SP00187,Xúc xích CP tiệt trùng - Mẫu 187,Thực phẩm>>Đồ hộp,356000,685805,242
+SP00188,Phở bò phố cổ - Mẫu 188,Thực phẩm,492000,871829,88
+SP00189,Nước giặt OMO Matic - Mẫu 189,Hàng hóa>>Hóa phẩm,62000,108980,204
+SP00190,Kẹo lạc vừng - Mẫu 190,Kẹo bánh,417000,828610,450
+SP00191,Sữa chua Mộc Châu - Mẫu 191,Khác>>Sữa chua,187000,304098,388
+SP00192,Nước khoáng Lavie 500ml - Mẫu 192,Đồ uống>>Nước lọc,45000,72214,224
+SP00193,Mì Hảo Hảo tôm chua cay - Mẫu 193,Thực phẩm>>Mì ăn liền,444000,682004,300
+SP00194,Rửa xe - Mẫu 194,Dịch vụ>>Rửa xe,231000,454753,375
+SP00195,Dầu gội Clear bạc hà - Mẫu 195,Mỹ phẩm>>Chăm sóc tóc,372000,491930,140
+SP00196,Kẹo cao su tổng hợp - Mẫu 196,Kẹo bánh,343000,485710,463
+SP00197,Trà xanh Không Độ - Mẫu 197,Đồ uống>>Trà đóng chai,406000,644239,273
+SP00198,Gạo Tám Hải Hậu 10kg - Mẫu 198,Thực phẩm>>Gạo,175000,329239,475
+SP00199,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 199,Thực phẩm>>Gia vị,152000,289606,174
+SP00200,Dầu gội Clear bạc hà - Mẫu 200,Mỹ phẩm>>Chăm sóc tóc,301000,508167,244
+SP00201,Bia Hà Nội lon 330ml - Mẫu 201,Đồ uống>>Bia,24000,38290,216
+SP00202,Kem dưỡng da Johnson xanh - Mẫu 202,Mỹ phẩm,259000,354751,458
+SP00203,Tương ớt Chinsu 250g - Mẫu 203,Thực phẩm>>Gia vị,184000,261965,355
+SP00204,Gạo Tám Hải Hậu 10kg - Mẫu 204,Thực phẩm>>Gạo,294000,355187,147
+SP00205,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 205,Thực phẩm>>Gia vị,133000,236215,300
+SP00206,Bánh Choco-Pie hộp 12 cái - Mẫu 206,Kẹo bánh,398000,554119,293
+SP00207,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 207,Hàng hóa>>Vệ sinh,239000,438408,97
+SP00208,Thẻ cào Mobifone 50k - Mẫu 208,Dịch vụ>>Thẻ cào,123000,187393,174
+SP00209,Kẹo Doublemint - Mẫu 209,Kẹo bánh,349000,581170,292
+SP00210,Bánh Choco-Pie hộp 12 cái - Mẫu 210,Kẹo bánh,281000,414476,431
+SP00211,Bánh Choco-Pie hộp 12 cái - Mẫu 211,Kẹo bánh,179000,265179,282
+SP00212,Gạo Tám Hải Hậu 10kg - Mẫu 212,Thực phẩm>>Gạo,166000,232586,111
+SP00213,Set mỹ phẩm tổng hợp - Mẫu 213,Mỹ phẩm,171000,221555,324
+SP00214,Kem dưỡng da Johnson xanh - Mẫu 214,Mỹ phẩm,108000,148295,297
+SP00215,Gạo Tám Hải Hậu 10kg - Mẫu 215,Thực phẩm>>Gạo,380000,635234,439
+SP00216,Kẹo cao su tổng hợp - Mẫu 216,Kẹo bánh,315000,449315,101
+SP00217,Set mỹ phẩm tổng hợp - Mẫu 217,Mỹ phẩm,161000,222499,141
+SP00218,Kẹo Doublemint - Mẫu 218,Kẹo bánh,17000,30029,114
+SP00219,Gạo Tám Hải Hậu 10kg - Mẫu 219,Thực phẩm>>Gạo,33000,65321,333
+SP00220,Thẻ cào Mobifone 50k - Mẫu 220,Dịch vụ>>Thẻ cào,367000,717584,376
+SP00221,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 221,Hàng hóa>>Vệ sinh,62000,117686,343
+SP00222,Thẻ cào Mobifone 50k - Mẫu 222,Dịch vụ>>Thẻ cào,250000,395742,224
+SP00223,Kem dưỡng da Johnson xanh - Mẫu 223,Mỹ phẩm,36000,50471,491
+SP00224,Băng vệ sinh Diana - Mẫu 224,Hàng hóa>>Vệ sinh cá nhân,68000,126323,255
+SP00225,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 225,Hàng hóa>>Vệ sinh,47000,78095,401
+SP00226,Bia 333 lon 330ml - Mẫu 226,Đồ uống>>Bia,87000,114784,338
+SP00227,Kẹo Doublemint - Mẫu 227,Kẹo bánh,53000,105742,110
+SP00228,Bánh Choco-Pie hộp 12 cái - Mẫu 228,Kẹo bánh,401000,614708,355
+SP00229,Nước rửa chén Sunlight chanh - Mẫu 229,Hàng hóa>>Hóa phẩm,407000,658549,280
+SP00230,Sữa tắm Falmolive xanh lá - Mẫu 230,Mỹ phẩm,162000,305877,269
+SP00231,Kẹo Doublemint - Mẫu 231,Kẹo bánh,301000,510743,362
+SP00232,Rửa xe - Mẫu 232,Dịch vụ>>Rửa xe,495000,896043,370
+SP00233,Thịt bò khô 30g - Mẫu 233,Thực phẩm,145000,250609,130
+SP00234,Nước giặt OMO Matic - Mẫu 234,Hàng hóa>>Hóa phẩm,98000,160876,130
+SP00235,Mì Hảo Hảo tôm chua cay - Mẫu 235,Thực phẩm>>Mì ăn liền,219000,341728,354
+SP00236,Băng vệ sinh Diana - Mẫu 236,Hàng hóa>>Vệ sinh cá nhân,159000,194951,197
+SP00237,Thẻ cào Mobifone 50k - Mẫu 237,Dịch vụ>>Thẻ cào,369000,696555,86
+SP00238,Nước rửa chén Sunlight chanh - Mẫu 238,Hàng hóa>>Hóa phẩm,483000,681823,455
+SP00239,Set mỹ phẩm tổng hợp - Mẫu 239,Mỹ phẩm,227000,293243,165
+SP00240,Gói quà - Mẫu 240,Dịch vụ>>Gói quà,475000,670940,122
+SP00241,Bột canh Hải Châu - Mẫu 241,Thực phẩm>>Gia vị,40000,53309,207
+SP00242,Xúc xích CP tiệt trùng - Mẫu 242,Thực phẩm>>Đồ hộp,481000,688257,113
+SP00243,Dầu gội Clear bạc hà - Mẫu 243,Mỹ phẩm>>Chăm sóc tóc,362000,522464,256
+SP00244,Gạo Tám Hải Hậu 10kg - Mẫu 244,Thực phẩm>>Gạo,266000,434108,274
+SP00245,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 245,Thực phẩm>>Gia vị,316000,389276,271
+SP00246,Coca Cola lon 330ml - Mẫu 246,Đồ uống>>Nước ngọt,319000,446693,96
+SP00247,Nước rửa chén Sunlight chanh - Mẫu 247,Hàng hóa>>Hóa phẩm,355000,663412,344
+SP00248,Phở bò Cung Đình - Mẫu 248,Thực phẩm>>Mì ăn liền,401000,696867,187
+SP00249,Xúc xích CP tiệt trùng - Mẫu 249,Thực phẩm>>Đồ hộp,30000,54314,139
+SP00250,Băng vệ sinh Diana - Mẫu 250,Hàng hóa>>Vệ sinh cá nhân,275000,473332,192
+SP00251,Kem dưỡng da Johnson xanh - Mẫu 251,Mỹ phẩm,309000,478550,466
+SP00252,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 252,Hàng hóa>>Vệ sinh,56000,88256,259
+SP00253,Bia Hà Nội lon 330ml - Mẫu 253,Đồ uống>>Bia,174000,302082,489
+SP00254,Bò húc Redbull - Mẫu 254,Đồ uống>>Nước tăng lực,178000,272218,303
+SP00255,Thẻ cào Mobifone 50k - Mẫu 255,Dịch vụ>>Thẻ cào,349000,682698,466
+SP00256,Bánh Choco-Pie hộp 12 cái - Mẫu 256,Kẹo bánh,28000,43788,211
+SP00257,Tương ớt Chinsu 250g - Mẫu 257,Thực phẩm>>Gia vị,175000,226229,445
+SP00258,Phở bò phố cổ - Mẫu 258,Thực phẩm,452000,728478,50
+SP00259,Trà xanh Không Độ - Mẫu 259,Đồ uống>>Trà đóng chai,246000,376527,146
+SP00260,Kẹo cao su tổng hợp - Mẫu 260,Kẹo bánh,195000,331130,305
+SP00261,Sữa tắm Falmolive xanh lá - Mẫu 261,Mỹ phẩm,399000,495274,186
+SP00262,Bánh Choco-Pie hộp 12 cái - Mẫu 262,Kẹo bánh,77000,149544,274
+SP00263,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 263,Hàng hóa>>Vệ sinh,72000,88062,372
+SP00264,Nước giặt OMO Matic - Mẫu 264,Hàng hóa>>Hóa phẩm,373000,494860,332
+SP00265,Mì Hảo Hảo tôm chua cay - Mẫu 265,Thực phẩm>>Mì ăn liền,292000,445706,165
+SP00266,Kẹo lạc vừng - Mẫu 266,Kẹo bánh,246000,481581,381
+SP00267,Gói quà - Mẫu 267,Dịch vụ>>Gói quà,265000,515722,199
+SP00268,Dầu ăn Neptune 1L - Mẫu 268,Thực phẩm>>Gia vị,371000,526352,477
+SP00269,Băng vệ sinh Diana - Mẫu 269,Hàng hóa>>Vệ sinh cá nhân,251000,350141,332
+SP00270,Gói quà - Mẫu 270,Dịch vụ>>Gói quà,206000,278612,356
+SP00271,Dầu ăn Neptune 1L - Mẫu 271,Thực phẩm>>Gia vị,392000,746156,492
+SP00272,Bột canh Hải Châu - Mẫu 272,Thực phẩm>>Gia vị,151000,274539,487
+SP00273,Thẻ cào Viettel 50k - Mẫu 273,Dịch vụ>>Thẻ cào,184000,358321,309
+SP00274,Gạo Tám Hải Hậu 10kg - Mẫu 274,Thực phẩm>>Gạo,430000,516882,421
+SP00275,Kẹo Doublemint - Mẫu 275,Kẹo bánh,438000,731262,387
+SP00276,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 276,Hàng hóa>>Vệ sinh,453000,597450,325
+SP00277,Băng vệ sinh Diana - Mẫu 277,Hàng hóa>>Vệ sinh cá nhân,186000,272667,440
+SP00278,Trà xanh Không Độ - Mẫu 278,Đồ uống>>Trà đóng chai,203000,317547,214
+SP00279,Set mỹ phẩm tổng hợp - Mẫu 279,Mỹ phẩm,367000,510513,246
+SP00280,Nước rửa chén Sunlight chanh - Mẫu 280,Hàng hóa>>Hóa phẩm,448000,815555,72
+SP00281,Coca Cola lon 330ml - Mẫu 281,Đồ uống>>Nước ngọt,391000,617146,465
+SP00282,Trứng gà Ba Huân - Mẫu 282,Thực phẩm>>Tươi sống,207000,412081,455
+SP00283,Gói quà - Mẫu 283,Dịch vụ>>Gói quà,263000,518599,114
+SP00284,Dầu ăn Neptune 1L - Mẫu 284,Thực phẩm>>Gia vị,312000,457265,101
+SP00285,Sữa tắm Falmolive xanh lá - Mẫu 285,Mỹ phẩm,61000,98866,283
+SP00286,Mì Hảo Hảo tôm chua cay - Mẫu 286,Thực phẩm>>Mì ăn liền,379000,498507,495
+SP00287,Gói quà - Mẫu 287,Dịch vụ>>Gói quà,48000,75628,185
+SP00288,Bia Hà Nội lon 330ml - Mẫu 288,Đồ uống>>Bia,329000,577119,382
+SP00289,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 289,Thực phẩm>>Gia vị,446000,652432,395
+SP00290,Trà xanh Không Độ - Mẫu 290,Đồ uống>>Trà đóng chai,204000,400515,370
+SP00291,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 291,Hàng hóa>>Vệ sinh,456000,744562,366
+SP00292,Bột canh Hải Châu - Mẫu 292,Thực phẩm>>Gia vị,130000,221640,197
+SP00293,Nước rửa chén Sunlight chanh - Mẫu 293,Hàng hóa>>Hóa phẩm,392000,498742,100
+SP00294,Rửa xe - Mẫu 294,Dịch vụ>>Rửa xe,237000,315942,203
+SP00295,Phở bò Cung Đình - Mẫu 295,Thực phẩm>>Mì ăn liền,33000,48163,78
+SP00296,Thẻ cào Mobifone 50k - Mẫu 296,Dịch vụ>>Thẻ cào,193000,289475,124
+SP00297,Nước giặt OMO Matic - Mẫu 297,Hàng hóa>>Hóa phẩm,281000,429829,399
+SP00298,Kem dưỡng da Johnson xanh - Mẫu 298,Mỹ phẩm,97000,129985,362
+SP00299,Trứng gà Ba Huân - Mẫu 299,Thực phẩm>>Tươi sống,327000,571108,304
+SP00300,Gói quà - Mẫu 300,Dịch vụ>>Gói quà,128000,200821,180
+SP00301,Dầu gội Clear bạc hà - Mẫu 301,Mỹ phẩm>>Chăm sóc tóc,140000,242686,461
+SP00302,Dầu gội Clear bạc hà - Mẫu 302,Mỹ phẩm>>Chăm sóc tóc,471000,673579,329
+SP00303,Bò húc Redbull - Mẫu 303,Đồ uống>>Nước tăng lực,47000,73009,226
+SP00304,Kẹo Doublemint - Mẫu 304,Kẹo bánh,337000,663763,403
+SP00305,Tương ớt Chinsu 250g - Mẫu 305,Thực phẩm>>Gia vị,243000,455927,151
+SP00306,Trứng gà Ba Huân - Mẫu 306,Thực phẩm>>Tươi sống,446000,707608,171
+SP00307,Trứng gà Ba Huân - Mẫu 307,Thực phẩm>>Tươi sống,302000,449124,201
+SP00308,Thẻ cào Mobifone 50k - Mẫu 308,Dịch vụ>>Thẻ cào,21000,41629,387
+SP00309,Phở bò phố cổ - Mẫu 309,Thực phẩm,150000,180971,492
+SP00310,Bia 333 lon 330ml - Mẫu 310,Đồ uống>>Bia,476000,802119,304
+SP00311,Thẻ cào Mobifone 50k - Mẫu 311,Dịch vụ>>Thẻ cào,407000,748508,360
+SP00312,Sữa tươi Vinamilk có đường 180ml - Mẫu 312,Khác>>Sữa,122000,208533,367
+SP00313,Tương ớt Chinsu 250g - Mẫu 313,Thực phẩm>>Gia vị,357000,644192,442
+SP00314,Kem đánh răng P/S trà xanh - Mẫu 314,Mỹ phẩm>>Chăm sóc răng miệng,331000,422929,371
+SP00315,Sữa chua Mộc Châu - Mẫu 315,Khác>>Sữa chua,168000,307589,67
+SP00316,Nước khoáng Lavie 500ml - Mẫu 316,Đồ uống>>Nước lọc,384000,501169,201
+SP00317,Coca Cola lon 330ml - Mẫu 317,Đồ uống>>Nước ngọt,392000,600701,152
+SP00318,Kem đánh răng P/S trà xanh - Mẫu 318,Mỹ phẩm>>Chăm sóc răng miệng,412000,672188,237
+SP00319,Kẹo cao su tổng hợp - Mẫu 319,Kẹo bánh,266000,513590,475
+SP00320,Bò húc Redbull - Mẫu 320,Đồ uống>>Nước tăng lực,141000,272304,296
+SP00321,Thẻ cào Mobifone 50k - Mẫu 321,Dịch vụ>>Thẻ cào,392000,743356,461
+SP00322,Kẹo lạc vừng - Mẫu 322,Kẹo bánh,249000,490608,122
+SP00323,Nước rửa chén Sunlight chanh - Mẫu 323,Hàng hóa>>Hóa phẩm,450000,783476,395
+SP00324,Phở bò phố cổ - Mẫu 324,Thực phẩm,443000,816745,237
+SP00325,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 325,Thực phẩm>>Gia vị,414000,627483,185
+SP00326,Trà xanh Không Độ - Mẫu 326,Đồ uống>>Trà đóng chai,73000,114159,394
+SP00327,Tương ớt Chinsu 250g - Mẫu 327,Thực phẩm>>Gia vị,309000,464989,376
+SP00328,Nước khoáng Lavie 500ml - Mẫu 328,Đồ uống>>Nước lọc,65000,113091,291
+SP00329,Phở bò Cung Đình - Mẫu 329,Thực phẩm>>Mì ăn liền,327000,623715,337
+SP00330,Coca Cola lon 330ml - Mẫu 330,Đồ uống>>Nước ngọt,478000,806895,381
+SP00331,Bột canh Hải Châu - Mẫu 331,Thực phẩm>>Gia vị,335000,622793,408
+SP00332,Kẹo Doublemint - Mẫu 332,Kẹo bánh,342000,522109,121
+SP00333,Sữa chua Mộc Châu - Mẫu 333,Khác>>Sữa chua,494000,607506,302
+SP00334,Kẹo lạc vừng - Mẫu 334,Kẹo bánh,59000,81882,325
+SP00335,Kem đánh răng P/S trà xanh - Mẫu 335,Mỹ phẩm>>Chăm sóc răng miệng,208000,325086,393
+SP00336,Trà xanh Không Độ - Mẫu 336,Đồ uống>>Trà đóng chai,224000,374051,422
+SP00337,Gói quà - Mẫu 337,Dịch vụ>>Gói quà,463000,709273,100
+SP00338,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 338,Hàng hóa>>Vệ sinh,325000,496110,193
+SP00339,Sữa chua Mộc Châu - Mẫu 339,Khác>>Sữa chua,363000,543201,277
+SP00340,Sữa tắm Falmolive xanh lá - Mẫu 340,Mỹ phẩm,496000,688889,235
+SP00341,Rửa xe - Mẫu 341,Dịch vụ>>Rửa xe,361000,539286,380
+SP00342,Sữa tươi Vinamilk có đường 180ml - Mẫu 342,Khác>>Sữa,41000,62258,147
+SP00343,Kẹo lạc vừng - Mẫu 343,Kẹo bánh,495000,929821,282
+SP00344,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 344,Thực phẩm>>Gia vị,349000,478019,377
+SP00345,Phở bò Cung Đình - Mẫu 345,Thực phẩm>>Mì ăn liền,35000,64030,174
+SP00346,Kem đánh răng P/S trà xanh - Mẫu 346,Mỹ phẩm>>Chăm sóc răng miệng,412000,680484,85
+SP00347,Bánh Choco-Pie hộp 12 cái - Mẫu 347,Kẹo bánh,116000,193616,466
+SP00348,Nước rửa chén Sunlight chanh - Mẫu 348,Hàng hóa>>Hóa phẩm,178000,323870,453
+SP00349,Mì Hảo Hảo tôm chua cay - Mẫu 349,Thực phẩm>>Mì ăn liền,151000,284895,124
+SP00350,Kem đánh răng P/S trà xanh - Mẫu 350,Mỹ phẩm>>Chăm sóc răng miệng,286000,400549,139
+SP00351,Kẹo lạc vừng - Mẫu 351,Kẹo bánh,348000,658819,117
+SP00352,Mì Hảo Hảo tôm chua cay - Mẫu 352,Thực phẩm>>Mì ăn liền,193000,353573,171
+SP00353,Coca Cola lon 330ml - Mẫu 353,Đồ uống>>Nước ngọt,18000,24109,76
+SP00354,Kem đánh răng P/S trà xanh - Mẫu 354,Mỹ phẩm>>Chăm sóc răng miệng,389000,597802,108
+SP00355,Bột canh Hải Châu - Mẫu 355,Thực phẩm>>Gia vị,253000,394330,235
+SP00356,Dầu ăn Neptune 1L - Mẫu 356,Thực phẩm>>Gia vị,313000,402907,307
+SP00357,Nước rửa chén Sunlight chanh - Mẫu 357,Hàng hóa>>Hóa phẩm,494000,835890,422
+SP00358,Kẹo cao su tổng hợp - Mẫu 358,Kẹo bánh,164000,256895,65
+SP00359,Bia 333 lon 330ml - Mẫu 359,Đồ uống>>Bia,255000,478848,268
+SP00360,Rửa xe - Mẫu 360,Dịch vụ>>Rửa xe,261000,461949,277
+SP00361,Bột canh Hải Châu - Mẫu 361,Thực phẩm>>Gia vị,470000,594377,361
+SP00362,Gói quà - Mẫu 362,Dịch vụ>>Gói quà,43000,55940,369
+SP00363,Bánh Choco-Pie hộp 12 cái - Mẫu 363,Kẹo bánh,374000,546095,355
+SP00364,Kẹo cao su tổng hợp - Mẫu 364,Kẹo bánh,160000,250075,359
+SP00365,Kẹo dừa Bến Tre - Mẫu 365,Kẹo bánh,60000,110068,108
+SP00366,Bánh Choco-Pie hộp 12 cái - Mẫu 366,Kẹo bánh,379000,717217,270
+SP00367,Sữa tắm Falmolive xanh lá - Mẫu 367,Mỹ phẩm,464000,641616,223
+SP00368,Dầu gội Clear bạc hà - Mẫu 368,Mỹ phẩm>>Chăm sóc tóc,214000,328017,98
+SP00369,Coca Cola lon 330ml - Mẫu 369,Đồ uống>>Nước ngọt,228000,330604,180
+SP00370,Nước khoáng Lavie 500ml - Mẫu 370,Đồ uống>>Nước lọc,498000,658411,292
+SP00371,Bột canh Hải Châu - Mẫu 371,Thực phẩm>>Gia vị,56000,104463,97
+SP00372,Kẹo dừa Bến Tre - Mẫu 372,Kẹo bánh,59000,105944,240
+SP00373,Kem đánh răng P/S trà xanh - Mẫu 373,Mỹ phẩm>>Chăm sóc răng miệng,294000,366907,337
+SP00374,Bánh Choco-Pie hộp 12 cái - Mẫu 374,Kẹo bánh,178000,309009,260
+SP00375,Sữa tươi Vinamilk có đường 180ml - Mẫu 375,Khác>>Sữa,457000,791648,434
+SP00376,Kẹo dừa Bến Tre - Mẫu 376,Kẹo bánh,454000,877434,76
+SP00377,Thẻ cào Mobifone 50k - Mẫu 377,Dịch vụ>>Thẻ cào,317000,459637,103
+SP00378,Xúc xích CP tiệt trùng - Mẫu 378,Thực phẩm>>Đồ hộp,269000,368581,386
+SP00379,Băng vệ sinh Diana - Mẫu 379,Hàng hóa>>Vệ sinh cá nhân,124000,232849,229
+SP00380,Bánh Choco-Pie hộp 12 cái - Mẫu 380,Kẹo bánh,198000,255797,192
+SP00381,Xúc xích CP tiệt trùng - Mẫu 381,Thực phẩm>>Đồ hộp,125000,230722,482
+SP00382,Bánh Choco-Pie hộp 12 cái - Mẫu 382,Kẹo bánh,402000,745606,364
+SP00383,Bánh Choco-Pie hộp 12 cái - Mẫu 383,Kẹo bánh,23000,38805,386
+SP00384,Gạo Tám Hải Hậu 10kg - Mẫu 384,Thực phẩm>>Gạo,24000,32263,409
+SP00385,Kẹo Doublemint - Mẫu 385,Kẹo bánh,481000,707964,53
+SP00386,Kem dưỡng da Johnson xanh - Mẫu 386,Mỹ phẩm,455000,598143,386
+SP00387,Phở bò phố cổ - Mẫu 387,Thực phẩm,45000,59107,374
+SP00388,Phở bò Cung Đình - Mẫu 388,Thực phẩm>>Mì ăn liền,56000,100625,160
+SP00389,Trứng gà Ba Huân - Mẫu 389,Thực phẩm>>Tươi sống,224000,350093,130
+SP00390,Nước khoáng Lavie 500ml - Mẫu 390,Đồ uống>>Nước lọc,169000,300359,447
+SP00391,Xúc xích CP tiệt trùng - Mẫu 391,Thực phẩm>>Đồ hộp,315000,399409,76
+SP00392,Gói quà - Mẫu 392,Dịch vụ>>Gói quà,90000,162319,75
+SP00393,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 393,Thực phẩm>>Gia vị,149000,231619,267
+SP00394,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 394,Hàng hóa>>Vệ sinh,320000,497163,189
+SP00395,Thịt bò khô 30g - Mẫu 395,Thực phẩm,396000,637511,226
+SP00396,Kẹo dừa Bến Tre - Mẫu 396,Kẹo bánh,66000,94155,397
+SP00397,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 397,Hàng hóa>>Vệ sinh,279000,483703,73
+SP00398,Nước rửa chén Sunlight chanh - Mẫu 398,Hàng hóa>>Hóa phẩm,212000,421361,78
+SP00399,Mì Hảo Hảo tôm chua cay - Mẫu 399,Thực phẩm>>Mì ăn liền,114000,164289,158
+SP00400,Kem đánh răng P/S trà xanh - Mẫu 400,Mỹ phẩm>>Chăm sóc răng miệng,401000,563170,217
+SP00401,Kẹo lạc vừng - Mẫu 401,Kẹo bánh,13000,20772,270
+SP00402,Kem dưỡng da Johnson xanh - Mẫu 402,Mỹ phẩm,76000,114316,410
+SP00403,Nước rửa chén Sunlight chanh - Mẫu 403,Hàng hóa>>Hóa phẩm,266000,438096,392
+SP00404,Sữa tươi Vinamilk có đường 180ml - Mẫu 404,Khác>>Sữa,46000,69812,429
+SP00405,Sữa chua Mộc Châu - Mẫu 405,Khác>>Sữa chua,233000,283093,89
+SP00406,Coca Cola lon 330ml - Mẫu 406,Đồ uống>>Nước ngọt,304000,469201,257
+SP00407,Thẻ cào Viettel 50k - Mẫu 407,Dịch vụ>>Thẻ cào,158000,204157,60
+SP00408,Coca Cola lon 330ml - Mẫu 408,Đồ uống>>Nước ngọt,97000,178582,366
+SP00409,Dầu gội Clear bạc hà - Mẫu 409,Mỹ phẩm>>Chăm sóc tóc,435000,761984,235
+SP00410,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 410,Thực phẩm>>Gia vị,233000,437011,174
+SP00411,Kẹo dừa Bến Tre - Mẫu 411,Kẹo bánh,311000,472831,90
+SP00412,Phở bò phố cổ - Mẫu 412,Thực phẩm,455000,658939,223
+SP00413,Nước rửa chén Sunlight chanh - Mẫu 413,Hàng hóa>>Hóa phẩm,180000,328192,89
+SP00414,Dầu ăn Neptune 1L - Mẫu 414,Thực phẩm>>Gia vị,334000,431267,311
+SP00415,Set mỹ phẩm tổng hợp - Mẫu 415,Mỹ phẩm,473000,861324,229
+SP00416,Gói quà - Mẫu 416,Dịch vụ>>Gói quà,130000,166691,181
+SP00417,Set mỹ phẩm tổng hợp - Mẫu 417,Mỹ phẩm,98000,164828,439
+SP00418,Bột canh Hải Châu - Mẫu 418,Thực phẩm>>Gia vị,100000,196103,371
+SP00419,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 419,Hàng hóa>>Vệ sinh,247000,445478,439
+SP00420,Sữa tắm Falmolive xanh lá - Mẫu 420,Mỹ phẩm,358000,694277,339
+SP00421,Coca Cola lon 330ml - Mẫu 421,Đồ uống>>Nước ngọt,452000,893503,211
+SP00422,Gói quà - Mẫu 422,Dịch vụ>>Gói quà,235000,294837,276
+SP00423,Kẹo Doublemint - Mẫu 423,Kẹo bánh,417000,592031,78
+SP00424,Sữa tươi Vinamilk có đường 180ml - Mẫu 424,Khác>>Sữa,269000,338765,286
+SP00425,Sữa tắm Falmolive xanh lá - Mẫu 425,Mỹ phẩm,29000,36119,475
+SP00426,Thẻ cào Mobifone 50k - Mẫu 426,Dịch vụ>>Thẻ cào,49000,84070,487
+SP00427,Nước mắm Nam Ngư Đệ Nhị 900ml - Mẫu 427,Thực phẩm>>Gia vị,324000,542785,246
+SP00428,Dầu gội Clear bạc hà - Mẫu 428,Mỹ phẩm>>Chăm sóc tóc,307000,504540,455
+SP00429,Sữa chua Mộc Châu - Mẫu 429,Khác>>Sữa chua,240000,462537,342
+SP00430,Set mỹ phẩm tổng hợp - Mẫu 430,Mỹ phẩm,174000,293016,306
+SP00431,Gói quà - Mẫu 431,Dịch vụ>>Gói quà,500000,624749,102
+SP00432,Bia Hà Nội lon 330ml - Mẫu 432,Đồ uống>>Bia,375000,475298,380
+SP00433,Kem dưỡng da Johnson xanh - Mẫu 433,Mỹ phẩm,30000,41945,274
+SP00434,Sữa tắm Falmolive xanh lá - Mẫu 434,Mỹ phẩm,278000,449859,131
+SP00435,Nước khoáng Lavie 500ml - Mẫu 435,Đồ uống>>Nước lọc,200000,386869,248
+SP00436,Thẻ cào Viettel 50k - Mẫu 436,Dịch vụ>>Thẻ cào,406000,597101,356
+SP00437,Bia 333 lon 330ml - Mẫu 437,Đồ uống>>Bia,414000,705749,221
+SP00438,Bột canh Hải Châu - Mẫu 438,Thực phẩm>>Gia vị,178000,227057,397
+SP00439,Trứng gà Ba Huân - Mẫu 439,Thực phẩm>>Tươi sống,155000,217247,486
+SP00440,Gói quà - Mẫu 440,Dịch vụ>>Gói quà,180000,227736,389
+SP00441,Gói quà - Mẫu 441,Dịch vụ>>Gói quà,479000,708851,385
+SP00442,Phở bò phố cổ - Mẫu 442,Thực phẩm,76000,127378,93
+SP00443,Kẹo Doublemint - Mẫu 443,Kẹo bánh,296000,444397,455
+SP00444,Bia Hà Nội lon 330ml - Mẫu 444,Đồ uống>>Bia,426000,554752,409
+SP00445,Kẹo cao su tổng hợp - Mẫu 445,Kẹo bánh,57000,97858,266
+SP00446,Dầu ăn Neptune 1L - Mẫu 446,Thực phẩm>>Gia vị,195000,236843,208
+SP00447,Kem dưỡng da Johnson xanh - Mẫu 447,Mỹ phẩm,496000,680191,442
+SP00448,Giấy vệ sinh Hà Nội 3 lớp - Mẫu 448,Hàng hóa>>Vệ sinh,108000,149173,120
+SP00449,Gói quà - Mẫu 449,Dịch vụ>>Gói quà,49000,70395,453
+SP00450,Rửa xe - Mẫu 450,Dịch vụ>>Rửa xe,269000,488692,477
+SP00451,Kẹo cao su tổng hợp - Mẫu 451,Kẹo bánh,29000,50156,498
+SP00452,Kem đánh răng P/S trà xanh - Mẫu 452,Mỹ phẩm>>Chăm sóc răng miệng,315000,472933,133
+SP00453,Kem dưỡng da Johnson xanh - Mẫu 453,Mỹ phẩm,435000,763110,369
+SP00454,Bò húc Redbull - Mẫu 454,Đồ uống>>Nước tăng lực,379000,587502,260
+SP00455,Nước khoáng Lavie 500ml - Mẫu 455,Đồ uống>>Nước lọc,356000,632137,277
+SP00456,Thẻ cào Mobifone 50k - Mẫu 456,Dịch vụ>>Thẻ cào,395000,710537,279
+SP00457,Nước rửa chén Sunlight chanh - Mẫu 457,Hàng hóa>>Hóa phẩm,283000,393747,464
+SP00458,Băng vệ sinh Diana - Mẫu 458,Hàng hóa>>Vệ sinh cá nhân,472000,881738,238
+SP00459,Xúc xích CP tiệt trùng - Mẫu 459,Thực phẩm>>Đồ hộp,235000,368795,194
+SP00460,Trứng gà Ba Huân - Mẫu 460,Thực phẩm>>Tươi sống,267000,433065,132
+SP00461,Set mỹ phẩm tổng hợp - Mẫu 461,Mỹ phẩm,420000,707166,496
+SP00462,Tương ớt Chinsu 250g - Mẫu 462,Thực phẩm>>Gia vị,36000,61665,497
+SP00463,Nước khoáng Lavie 500ml - Mẫu 463,Đồ uống>>Nước lọc,293000,570598,414
+SP00464,Kẹo cao su tổng hợp - Mẫu 464,Kẹo bánh,445000,578385,92
+SP00465,Bò húc Redbull - Mẫu 465,Đồ uống>>Nước tăng lực,149000,232358,312
+SP00466,Gói quà - Mẫu 466,Dịch vụ>>Gói quà,435000,674240,163
+SP00467,Sữa tắm Falmolive xanh lá - Mẫu 467,Mỹ phẩm,462000,683606,63
+SP00468,Thẻ cào Viettel 50k - Mẫu 468,Dịch vụ>>Thẻ cào,37000,56135,241
+SP00469,Nước giặt OMO Matic - Mẫu 469,Hàng hóa>>Hóa phẩm,207000,413093,241
+SP00470,Nước rửa chén Sunlight chanh - Mẫu 470,Hàng hóa>>Hóa phẩm,24000,34918,100
+SP00471,Bia Hà Nội lon 330ml - Mẫu 471,Đồ uống>>Bia,415000,546488,69
+SP00472,Thẻ cào Mobifone 50k - Mẫu 472,Dịch vụ>>Thẻ cào,479000,892764,406
+SP00473,Kem đánh răng P/S trà xanh - Mẫu 473,Mỹ phẩm>>Chăm sóc răng miệng,398000,702242,279
+SP00474,Mì Hảo Hảo tôm chua cay - Mẫu 474,Thực phẩm>>Mì ăn liền,473000,597579,181
+SP00475,Thịt bò khô 30g - Mẫu 475,Thực phẩm,437000,576672,422
+SP00476,Kẹo cao su tổng hợp - Mẫu 476,Kẹo bánh,226000,291302,197
+SP00477,Nước giặt OMO Matic - Mẫu 477,Hàng hóa>>Hóa phẩm,164000,212786,172
+SP00478,Thẻ cào Viettel 50k - Mẫu 478,Dịch vụ>>Thẻ cào,337000,618435,284
+SP00479,Bột canh Hải Châu - Mẫu 479,Thực phẩm>>Gia vị,66000,123377,305
+SP00480,Trà xanh Không Độ - Mẫu 480,Đồ uống>>Trà đóng chai,18000,30700,344
+SP00481,Nước giặt OMO Matic - Mẫu 481,Hàng hóa>>Hóa phẩm,377000,495702,269
+SP00482,Mì Hảo Hảo tôm chua cay - Mẫu 482,Thực phẩm>>Mì ăn liền,324000,480249,342
+SP00483,Thẻ cào Viettel 50k - Mẫu 483,Dịch vụ>>Thẻ cào,105000,181807,93
+SP00484,Kẹo cao su tổng hợp - Mẫu 484,Kẹo bánh,194000,243303,319
+SP00485,Trà xanh Không Độ - Mẫu 485,Đồ uống>>Trà đóng chai,269000,492035,309
+SP00486,Bánh Choco-Pie hộp 12 cái - Mẫu 486,Kẹo bánh,20000,30247,290
+SP00487,Sữa chua Mộc Châu - Mẫu 487,Khác>>Sữa chua,335000,505684,241
+SP00488,Tương ớt Chinsu 250g - Mẫu 488,Thực phẩm>>Gia vị,392000,475493,453
+SP00489,Bột canh Hải Châu - Mẫu 489,Thực phẩm>>Gia vị,186000,259079,386
+SP00490,Rửa xe - Mẫu 490,Dịch vụ>>Rửa xe,405000,674536,437
+SP00491,Bia Hà Nội lon 330ml - Mẫu 491,Đồ uống>>Bia,78000,96366,329
+SP00492,Bia Hà Nội lon 330ml - Mẫu 492,Đồ uống>>Bia,426000,730264,475
+SP00493,Dầu gội Clear bạc hà - Mẫu 493,Mỹ phẩm>>Chăm sóc tóc,366000,579313,143
+SP00494,Kem đánh răng P/S trà xanh - Mẫu 494,Mỹ phẩm>>Chăm sóc răng miệng,42000,74459,284
+SP00495,Sữa chua Mộc Châu - Mẫu 495,Khác>>Sữa chua,160000,217803,455
+SP00496,Set mỹ phẩm tổng hợp - Mẫu 496,Mỹ phẩm,463000,571121,208
+SP00497,Dầu ăn Neptune 1L - Mẫu 497,Thực phẩm>>Gia vị,213000,424146,328
+SP00498,Băng vệ sinh Diana - Mẫu 498,Hàng hóa>>Vệ sinh cá nhân,139000,170872,381
+SP00499,Set mỹ phẩm tổng hợp - Mẫu 499,Mỹ phẩm,156000,231750,449
+SP00500,Bia 333 lon 330ml - Mẫu 500,Đồ uống>>Bia,453000,781237,189
