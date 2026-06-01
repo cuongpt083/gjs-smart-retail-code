@@ -68,6 +68,14 @@ Dashboard được chia thành 3 màn hình/tab chính, phục vụ các khía c
 *   **Cảnh báo tồn kho giả lập (Scatter Plot):**
     *   Tốc độ bán ra vs. Tồn kho (`stock_on_hand`).
 
+### Tab 4: Customer Segmentation (Phân Khúc Khách Hàng RFM - Dành riêng Marketing)
+*Trang này là không gian biệt lập chuyên sâu cho nghiệp vụ Marketing, tập trung phân tích thói quen mua sắm thông qua mô hình RFM, tách biệt hoàn toàn với các thông số kỹ thuật ETL ở 3 Tab đầu.*
+
+*   **Tính toán động In-Memory bằng Pandas:** Xử lý điểm số RFM trực tiếp trên bộ nhớ ứng dụng (chạy lệnh `pd.qcut()`) thay vì bằng hệ quản trị cơ sở dữ liệu. Điều này cho phép người dùng thay đổi Date Range và hệ thống tự động sinh lại nhãn cho phân khúc theo đúng khoảng thời gian lọc (dynamic calculation).
+*   **Thang điểm RFM 5 cấp:** Sử dụng thang chia 5 mức (từ 1 đến 5) cho quá trình xếp hạng chỉ số Recency, Frequency, và Monetary (trong đó F và M sẽ được tính điểm trung bình tạo thành 1 trục).
+*   **Ma trận Predictive Segments (Lưới 5x5 Heatmap/Scatter):** Bản đồ gồm chính xác 11 nhóm khách hàng (Champions, Loyal Customers, Can't Lose Them, Lost, Hibernating, About to Sleep, Promising, Recent Users, Needs Attention, Potential Loyalist, Price Sensitive).
+*   **Bảng Actionable Insights:** Cung cấp danh sách khách hàng thuộc phân khúc được chọn kèm theo gợi ý hành động chiến dịch Marketing cụ thể.
+
 ---
 
 ## 4. Đặc Tả Triển Khai (Technology & Execution)
